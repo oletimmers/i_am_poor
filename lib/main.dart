@@ -28,7 +28,7 @@ void main() {
                   width: 200,
                   height: 200,
                   decoration: BoxDecoration(
-                    color: Colors.teal[800],
+                    color: Colors.teal[100],
                     shape: BoxShape.circle,
                     border: Border.all(
                       color: Colors.black,
